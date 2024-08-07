@@ -28,7 +28,7 @@ Once installed, verify the installation by running the following commands in you
 ```sh
 node -v
 npm -v
-
+``
 
 ** Basic Concepts
 1. Hello World: The classic starting point for any programming language.
